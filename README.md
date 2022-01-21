@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+# Zakaria Dandoune
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
+- 🔭 I’m currently working on getting a Bachelor's in IT
+- 💬 Ask me about anime recommendations
+- 📫 How to reach me: zakaria.dandoune@gmail.com
+- ⚡ Fun fact: I love playing video games~ 🎮🎮🎮
+- 
+                I love koalas 🐨🐨🐨
+               ~~I don't like heights~~ 🥲
